@@ -1,7 +1,7 @@
 package ch04.ex5;
 
 // 함수형 인터페이스 정의 (이미 구현됨)
-interface Calculator {
+interface Calculator1 {
     int calculate(int a, int b);
 }
 
@@ -18,15 +18,15 @@ public class BasicLambdaExample {
         System.out.println("=== 기본 람다 표현식 ===\n");
 
         // TODO 1: 덧셈 람다 구현하기
-        Calculator add = (a, b) -> a + b;
+        Calculator1 add = (a, b) -> a + b;
         System.out.println("10 + 5 = " + add.calculate(10, 5));
 
         // TODO 2: 곱셈 람다 구현하기
-        Calculator multiply = (a,b) -> a * b;
+        Calculator1 multiply = (a,b) -> a * b;
         System.out.println("10 × 5 = " + multiply.calculate(10, 5));
 
         // TODO 3: 최대값 람다 구현하기
-        Calculator max = (a,b) ->  Math.max(a,b);
+        Calculator1 max = (a,b) ->  Math.max(a,b);
         System.out.println("max(10, 5) = " + max.calculate(10, 5));
 
         // TODO 4: 인사 람다 구현하기
