@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 도서 정보를 관리하는 클래스

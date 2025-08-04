@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 설정 클래스 - 변경 가능한 설정값들

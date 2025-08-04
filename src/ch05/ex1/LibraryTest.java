@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 도서관 클래스 - 여러 도서를 관리

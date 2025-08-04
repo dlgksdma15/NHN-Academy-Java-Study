@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 학급 성적 관리 시스템

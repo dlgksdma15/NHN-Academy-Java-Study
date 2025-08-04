@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 게임 캐릭터를 나타내는 클래스

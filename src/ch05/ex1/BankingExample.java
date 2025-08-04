@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 은행 계좌 클래스 - 완전한 캡슐화 예제

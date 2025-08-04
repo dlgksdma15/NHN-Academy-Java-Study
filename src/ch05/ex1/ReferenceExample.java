@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 좌표를 나타내는 클래스

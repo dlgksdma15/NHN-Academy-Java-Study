@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 직원 정보 클래스

@@ -1,4 +1,4 @@
-package ch05;
+package ch05.ex1;
 
 /**
  * 사람을 나타내는 기본 클래스
