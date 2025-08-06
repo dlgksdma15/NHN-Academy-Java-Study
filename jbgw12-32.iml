@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch04/ex7_javafx" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch05/ex3_javafx" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch05/ex7/javafxPro" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
